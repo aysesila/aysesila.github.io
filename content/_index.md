@@ -38,7 +38,8 @@ sections:
         Always open to ideas that challenge how we understand computation in nature and engineered systems. 🧠
     design:
       columns: '1'
-      - block: collection
+
+  - block: collection
     id: papers
     content:
       title: Publications
@@ -63,8 +64,4 @@ sections:
       order: desc
       spacing:
         padding: [0, 0, 0, 0]
-
-
-
-
 ---
