@@ -7,7 +7,7 @@ authors:
   - Elham Baradari
   - Ahmet B Kilic
   - Fatih E Bilgen
-  - admin
+  - Ayse S Okcu
   - Melanie Whitfield
   - Oktay Cetinkaya
   - Ozgur B Akan
