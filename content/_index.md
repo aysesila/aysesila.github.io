@@ -61,4 +61,17 @@ sections:
       order: desc
       spacing:
         padding: [0, 0, 0, 0]
+    # ... keep your resume-biography-3 block as is ...
+
+  - block: buttons
+    content:
+      buttons:
+        - text: Download CV
+          url: uploads/resume.pdf     # file should live at /static/uploads/resume.pdf
+          icon: download              # optional: try download / file-text / arrow-down-tray
+          type: primary               # primary | secondary | link
+          new_tab: false
+    design:
+      align: center                   # left | center | right
+
 ---
