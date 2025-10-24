@@ -17,6 +17,9 @@ sections:
         about: ''
         education: ''
         interests: ''
+    button:
+      text: Download CV
+      url: uploads/resume.pdf
     design:
       css_class: hbx-bg-gradient
       avatar:
@@ -61,19 +64,7 @@ sections:
       order: desc
       spacing:
         padding: [0, 0, 0, 0]
-    # ... keep your resume-biography-3 block as is ...
-
-    - block: markdown
-    content:
-      title: ''
-      text: |-
-        <p style="text-align:center; margin-top: 1rem;">
-          <a class="btn btn-primary" href="uploads/resume.pdf" target="_blank">
-            ⬇ Download CV
-          </a>
-        </p>
-    design:
-      columns: 1
+  
 
 
 ---
