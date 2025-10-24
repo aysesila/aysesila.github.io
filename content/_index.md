@@ -31,11 +31,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I’m a PhD student exploring the intersections of communication, computation, and intelligence across scales — from biological information transfer to memory and representation in computational neuroscience. 
+        I’m a PhD student exploring the intersections of communication, computation, and intelligence across scales from biological information transfer to memory and representation in computational neuroscience. 
 
         My work aims to uncover how localization and communication processes, whether in physical, biological, or neural systems, can give rise to efficient computation, adaptive learning, and collective intelligence. I combine mathematical modeling, machine learning, and theoretical neuroscience to develop frameworks that bridge biological communication and artificial information processing.
         
-        Always open to ideas that challenge how we understand computation in nature and engineered systems. 🌍🧠
+        Always open to ideas that challenge how we understand computation in nature and engineered systems. 🧠
     design:
       columns: '1'
 
