@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Ayşe Sıla Okcu
+title: Ayse Sila Okcu
 
 # Full name (for SEO)
-first_name: Ayşe Sıla
+first_name: Ayse Sila
 last_name: Okcu
 
 # Pronouns (optional)
