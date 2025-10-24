@@ -12,7 +12,7 @@ authors:
   - Oktay Cetinkaya
   - Ozgur B Akan
 
-date: "2024-10-28T00:00:00Z"
+date: "2024-10-28"
 publication_types: ["article-journal"]
 publication: "IEEE COMMUNICATIONS SURVEYS & TUTORIALS"
 publication_short: ""
