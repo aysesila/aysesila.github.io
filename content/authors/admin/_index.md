@@ -6,11 +6,11 @@ title: Ayşe Sıla Okcu
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Ayşe Sıla
+last_name: Okcu
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
