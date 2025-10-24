@@ -40,9 +40,7 @@ profiles:
     url: https://scholar.google.com/citations?user=nIQbf4oAAAAJ&hl=tr&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/0009-0002-8206-0463
-button:
-  text: Download CV
-  url: uploads/resume.pdf
+
 
 interests:
   - Computational Neuroscience
