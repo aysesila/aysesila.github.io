@@ -38,18 +38,17 @@ sections:
         Always open to ideas that challenge how we understand computation in nature and engineered systems. 🧠
     design:
       columns: '1'
-
-    - block: collection
-      id: papers
-      content:
-        title: Publications
-        filters:
-          folders:
-            - publications
-          featured_only: false
+      - block: collection
+    id: papers
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publications
+        featured_only: false
     design:
-      view: list         ,
-      columns: 1          
+      view: list
+      columns: 1
       page_type: publication
       count: 5
       filters:
@@ -64,6 +63,7 @@ sections:
       order: desc
       spacing:
         padding: [0, 0, 0, 0]
+
 
 
 
