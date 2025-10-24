@@ -48,7 +48,6 @@ interests:
   - Computational Neuroscience
   - Memory
   - Biological Computing
-  - Molecular Communication
   - Information Theory
 
 education:
