@@ -34,17 +34,19 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a PhD student exploring the intersections of communication, computation, and intelligence across scales from biological information transfer to memory and representation in computational neuroscience.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+My work aims to uncover how localization and communication processes whether in physical, biological, or neural systems can give rise to efficient computation, adaptive learning, and collective intelligence.
 
-        Please reach out to collaborate 😃
+I combine mathematical modeling, machine learning, and theoretical neuroscience to develop frameworks that bridge biological communication and artificial information processing.
+
+Always open to ideas that challenge how we understand computation in nature and engineered systems. 🌍🧠
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publications
@@ -52,31 +54,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
+
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
