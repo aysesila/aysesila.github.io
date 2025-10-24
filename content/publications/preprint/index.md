@@ -23,13 +23,6 @@ links:
   - type: arxiv
     url: https://arxiv.org/abs/2502.07112
 
-# Optional image (if you add featured.jpg/png inside this folder)
-#image:
-#  caption: "Conceptual illustration of odor-based source localization."
-#  focal_point: Center
-#  preview_only: false
 
-# Optional associated project
-#projects: ["odor-localization"]
 
 ---
