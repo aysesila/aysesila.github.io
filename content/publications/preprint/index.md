@@ -15,7 +15,7 @@ tags:
   - Molecular Communication
   - Odor Source Localization
   - Learning-based Inference
-featured: false
+featured: true
 
 links:
   - type: pdf
