@@ -2,9 +2,6 @@
 # Display name
 title: Ayşe Sıla Okcu
 
-# Name pronunciation (optional)
-name_pronunciation: ''
-
 # Full name (for SEO)
 first_name: Ayşe Sıla
 last_name: Okcu
@@ -12,29 +9,28 @@ last_name: Okcu
 # Pronouns (optional)
 pronouns: she/her
 
-# Status emoji
+# Status emoji (optional)
 status:
-  icon: 
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
+# Highlight the author in author lists?
 highlight_name: true
 
 # Role/position/tagline
 role: PhD Student
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: University of Cambridge
-    url: (https://ioe.eng.cam.ac.uk/)
+    url: https://ioe.eng.cam.ac.uk/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:aso32@cam.ac.uk'
+    url: mailto:aso32@cam.ac.uk
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/aysesila
@@ -55,65 +51,64 @@ interests:
 education:
   - area: PhD in Engineering 
     institution: University of Cambridge
-    icon: ""
+    icon: ''
     date_start: 2024-10-01
     date_end: ''
-    summary: | ''
-      
-    
+    summary: ''
+
   - area: BSc in Mathematics
     institution: Koç University
-    icon: ""
+    icon: ''
     date_start: 2021-03-01
     date_end: 2024-06-27
-    summary: |''
+    summary: |
       GPA: 3.8/4.0
 
   - area: BSc in Electrical and Electronics Engineering
     institution: Koç University
-    icon: ""
+    icon: ''
     date_start: 2019-09-01
     date_end: 2024-06-27
     summary: |
-      Worked as undergraduate teaching assistant for ENGR200 Probability for Engineers course in Spring’23 semester, INDR201 Discrete Mathematics and Its Applications course in Fall’22 semester. Mentored to new coming students for classes and orientation. Worked as undergraduate research assistant under the supervision of Prof. Ozgur Baris Akan for understanding molecular communication techniques and for improving them. Worked as undergraduate research assistant under the supervision of Prof. Murat Kuscu with a focus of pulse shape optimization for microfluidic molecular communications.
+      Worked as undergraduate teaching assistant for ENGR200 Probability for Engineers (Spring 2023) and INDR201 Discrete Mathematics and Its Applications (Fall 2022). 
+      Mentored incoming students for classes and orientation. 
+      Worked as undergraduate research assistant under Prof. Özgür Barış Akan on molecular communication techniques, and under Prof. Murat Kuşcu on pulse shape optimization for microfluidic molecular communication.
       GPA: 3.8/4.0
 
 work:
   - position: AI Research Intern
-    company_name: Carex AI 
+    company_name: Carex AI
     icon: ''
     date_start: 2024-03-01
     date_end: 2024-07-10
-    summary: |2-
-      Worked as an intern in the project of AI-powered, video-based software generation as a medical device platform that transforms any camera-equipped device into a regulatory vital sign.
-monitoring solution
+    summary: |
+      Worked on an AI-powered, video-based software generation and medical device platform that transforms camera-equipped devices into regulatory vital sign monitoring solutions.
+
   - position: Data Analyst
     company_name: Bluearf
-    company_url: ''
     icon: ''
     date_start: 2023-09-01
-    date_end: 2023-11-31
+    date_end: 2023-11-30
     summary: |
-      Processed the yearly reports and social media data of top companies of Türkiye and analysed the information of their performances regarding sustainability and sustainable development goals.
-  - position: AMGEN Scholar, Summer Intern 
-      company_name: Ludwig Maximillians Universität Munich
-      company_url: ''
-      icon: ''
-      date_start: 2023-07-01
-      date_end: 2023-09-10
-      summary: |
-        Completed compulsory summer internship at the Bernstein Centre for Computational Neuroscience. Worked on conducting and modelling colour vision experiments to explain the link between neural firings in primary visual cortex and colour discrimination effects as a member of the research group of Prof. Dr. Thomas Wachtler and present the research results in the annual Cambridge Poster Symposium.
-    - position: Summer Intern 
-      company_name: ASELSAN
-      company_url: ''
-      icon: ''
-      date_start: 2022-08-01
-      date_end: 2022-09-20
-      summary: |
-        Completed compulsory summer internship at the REHIS/ASELSAN under the Airborne Platform Radar department.
+      Processed annual reports and social media data of top companies in Türkiye and analyzed their sustainability performance with respect to the UN Sustainable Development Goals.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+  - position: AMGEN Scholar, Summer Intern 
+    company_name: Ludwig Maximilians Universität Munich
+    icon: ''
+    date_start: 2023-07-01
+    date_end: 2023-09-10
+    summary: |
+      Completed summer research internship at the Bernstein Centre for Computational Neuroscience. 
+      Conducted and modeled color vision experiments to link neural firings in the primary visual cortex with color discrimination effects under Prof. Dr. Thomas Wachtler’s group, and presented results at the Cambridge Poster Symposium.
+
+  - position: Summer Intern 
+    company_name: ASELSAN
+    icon: ''
+    date_start: 2022-08-01
+    date_end: 2022-09-20
+    summary: |
+      Completed summer internship at REHIS/ASELSAN under the Airborne Platform Radar Department.
+
 skills:
   - name: Technical & Research Skills
     color: '#2563eb'
@@ -149,14 +144,13 @@ skills:
         percent: 95
         icon: neuron
       - name: Dynamical Systems & Optimization
-        description: 'Exploring stability, and non-convex learning landscapes.'
+        description: 'Exploring stability and non-convex learning landscapes.'
         percent: 90
         icon: function
       - name: Molecular Communication & Odor Localization
         description: 'Developing PDE and particle-based frameworks for microscale information transfer.'
         percent: 100
         icon: beaker
-      
 
   - name: Personal Interests
     color: '#eeac02'
@@ -164,40 +158,34 @@ skills:
     items:
       - name: Hiking & Nature Exploration
         description: ''
-        percent: ''
+        percent: 80
         icon: mountain
       - name: Yoga
         description: ''
-        percent: ''
-      - name: Reading 
+        percent: 70
+        icon: heart
+      - name: Reading
         description: ''
-        percent: ''
-        
-    
+        percent: 85
+        icon: book-open
+
 languages:
   - name: English
     percent: 100
   - name: Turkish
     percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Cambridge Trust&Newnham College Scholarship
+  - title: Cambridge Trust & Newnham College Scholarship
     summary: |
-      Full tuition waiver including maintenance fees for my PhD studies in the University of Cambridge.
+      Full tuition waiver and maintenance grant for PhD studies at the University of Cambridge.
   - title: Amgen Scholar
     summary: |
-      Chosen as Amgen Scholar which is a highly prestigious program with 3.4% acceptance rate that provides opportunities for young scientists to conduct hands-on research at leading institutions worldwide.
+      Selected as one of a small cohort (≈3.4% acceptance rate) for the Amgen Scholars program, providing hands-on research opportunities at leading global institutions.
   - title: Anatolian Scholarship
     summary: |
-      Full tuition waiver for studying in Koç University, Türkiye.
-  - title: Anatolian Scholarship
+      Full tuition waiver to study at Koç University, awarded based on national academic excellence.
+  - title: National University Entrance Exam Achievement
     summary: |
-      Awarded based on ranking 66th in National University entrance exam among 2.5 million participants.
-    
+      Ranked 66th among 2.5 million participants in Türkiye’s national university entrance exam.
 ---
-
-I'm a PhD student at the University of Cambridge, working at the intersection of computational neuroscience, molecular communication, and artificial intelligence. My research explores how communication and localization processes in biological and physical systems give rise to computation, learning, and intelligence bridging information theory, dynamical systems, and machine learning. My work combines mathematical modeling, deep learning, and theory-driven simulation to uncover unifying principles that connect natural and artificial information processing.
