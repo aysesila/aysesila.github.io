@@ -171,9 +171,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    #percent: 100
   - name: Turkish
-    percent: 100
+    #percent: 100
 
 awards:
   - title: Cambridge Trust & Newnham College Scholarship
