@@ -48,7 +48,7 @@ sections:
           - publications
         featured_only: false
     design:
-      
+      view: list
       columns: 2
       page_type: publication
       count: 5
