@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Odor-based molecular communications: State-of-the-art, vision, challenges, and frontier directions"
 authors:
   - Dilara Aktas
   - Beyza E Ortlek
@@ -12,7 +12,7 @@ authors:
   - Oktay Cetinkaya
   - Ozgur B Akan
 
-date: "2015-09-01T00:00:00Z"
+date: "2024-10-28T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "IEEE COMMUNICATIONS SURVEYS & TUTORIALS"
 publication_short: ""
