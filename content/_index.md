@@ -39,7 +39,7 @@ sections:
     design:
       columns: '1'
 
-  - block: collection
+    - block: collection
     id: papers
     content:
       title: Publications
@@ -48,8 +48,8 @@ sections:
           - publications
         featured_only: false
     design:
-      view: list
-      columns: 2
+      view: list          # 👈 Changed from 'card' to 'list' — disables thumbnails
+      columns: 1          # 1 column vertical layout
       page_type: publication
       count: 5
       filters:
@@ -64,6 +64,7 @@ sections:
       order: desc
       spacing:
         padding: [0, 0, 0, 0]
+
 
 
 ---
