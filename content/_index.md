@@ -40,16 +40,16 @@ sections:
       columns: '1'
 
     - block: collection
-    id: papers
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publications
-        featured_only: false
+      id: papers
+      content:
+        title: Publications
+        filters:
+          folders:
+            - publications
+          featured_only: false
     design:
-      view: list          # 👈 Changed from 'card' to 'list' — disables thumbnails
-      columns: 1          # 1 column vertical layout
+      view: list         ,
+      columns: 1          
       page_type: publication
       count: 5
       filters:
